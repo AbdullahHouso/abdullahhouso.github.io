@@ -55,7 +55,7 @@ img {
   }
   
   .logo {
-	  margin-top: 5px;
+	  margin-top: 20px;
   }
   
   .logo img {
@@ -132,6 +132,7 @@ img {
 .social a {
 	color: #D2D2D2;
 	text-decoration: none;
+	margin-left: 8px;
 }
 
 @keyframes hover-right-web {
@@ -202,14 +203,6 @@ img {
 	transition: color 0.5s;
 }
 .fa-500px:hover {
-	color: #0099e5;
-	transition: color 0.5s;
-}
-.fa-envelope {
-	color: #D2D2D2;
-	transition: color 0.5s;
-}
-.fa-envelope:hover {
 	color: #0099e5;
 	transition: color 0.5s;
 }
